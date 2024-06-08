@@ -17,7 +17,7 @@ export const metadata: Metadata = {
         siteName: 'Celso Salazar',
         images: [
             {
-                url: 'https://celsosalazar.com/imagenes/celso_salazar_sayca.webp',
+                url: 'https://celsosalazar.com/images/celso_salazar_sayca.webp',
                 width: 1200,
                 height: 630,
                 alt: 'Celso Salazar Sayca',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
         title: 'Celso Salazar Campos | Constructora Sayca',
         description: 'Empresa Constructora dedicada a la construcción de proyectos de Arquitectura y obra civil, en el ámbito público y privado.',
         card: 'summary_large_image',
-        images: 'https://celsosalazar.com/imagenes/celso_salazar_sayca.webp',
+        images: 'https://celsosalazar.com/images/celso_salazar_sayca.webp',
         site: 'https://celsosalazar.com',
     },
 }
