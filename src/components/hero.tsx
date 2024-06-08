@@ -19,14 +19,14 @@ const slides = [
         id: 2,
         title: 'Constructora de Viviendas',
         description: 'Somos una empresa constructora que se dedica a la construcción de viviendas de alto valor en el país, en el máximo y privado.',
-        img: '/assets/images/slider/01.webp',
+        img: '/assets/images/slider/03.webp',
         sloganImg:'/assets/images/celso_salazar_campos.webp'
     },
     {
         id: 3,
         title: 'Constructora de Viviendas',
         description: 'Somos una empresa constructora que se dedica a la construcción de viviendas de alto valor en el país, en el máximo y privado.',
-        img: '/assets/images/slider/02a.jpg',
+        img: '/assets/images/slider/04.webp',
         sloganImg:'/assets/images/celso_salazar_campos.webp'
     },
 ]
