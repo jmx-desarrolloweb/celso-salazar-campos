@@ -1,6 +1,7 @@
 'use client'
 import React from 'react'
 import { Swiper, SwiperSlide } from 'swiper/react'
+import { Autoplay } from 'swiper/modules'
 
 // Import Swiper styles
 import 'swiper/css'
@@ -34,7 +35,11 @@ const slides = [
 export const Hero = () => {
     return (
         <Swiper 
+            modules={[Autoplay]}
             loop={true}
+            autoplay={{
+                delay: 2000,
+            }}
             className="h-[500px] md:h-[720px] 2xl:h-[800px]"
         >
             {
