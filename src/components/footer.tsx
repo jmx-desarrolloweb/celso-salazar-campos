@@ -27,11 +27,11 @@ export const Footer = () => {
                         <ul className="flex flex-col gap-4">
                             <li className="flex gap-2 items-center">
                                 <MdEmail className="text-yellow-primary"/>
-                                <a href="" className="text-[15px] leading-[26px]">sayca.csc@hotmail.com</a>
+                                <a href="mailto:sayca.csc@hotmail.com" className="text-[15px] leading-[26px]">sayca.csc@hotmail.com</a>
                             </li>
                             <li className="flex gap-2 items-center">
                                 <FaPhoneAlt size={16} className="text-yellow-primary"/>
-                                <a href="" className="text-[15px] leading-[26px]">(757) 105 63 86 - Celso Salazar Campos</a>
+                                <span className="text-[15px] leading-[26px]">(757) 105 63 86 - Celso Salazar Campos</span>
                             </li>
                             <li className="flex gap-2 items-center">
                                 <IoIosPin size={35} className="text-yellow-primary"/>
